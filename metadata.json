@@ -1,0 +1,6 @@
+{
+  "name": "Avantgarde Hair Studio",
+  "description": "Erleben Sie exklusives Haar-Design und Balayage von Meisterhand mit unserem minimalistischen, hochkonvertierenden Buchungsverfahren.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
